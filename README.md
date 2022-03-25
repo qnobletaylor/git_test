@@ -1,2 +1,2 @@
 # git_test
-Hello y'all! Interesting.
+Hello y'all!
